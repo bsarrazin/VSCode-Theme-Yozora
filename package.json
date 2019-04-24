@@ -1,0 +1,20 @@
+{
+	"name": "yozora",
+	"version": "0.1.0",
+	"publisher": "bsarrazin",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Yozora",
+				"uiTheme": "vs",
+				"path": "./Yozora.tmTheme"
+			}
+		]
+	},
+	"devDependencies": {
+		"tslint": "^5.11.0"
+	}
+}
